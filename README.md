@@ -33,7 +33,7 @@ Golden Drainer is the most modern drainer on the market. It supports seven of th
  ● server Ubuntu 20.04
  ● control domain for server
  ● domain or several domains for landing pages
- ● hosting for landing
+ ● hosting for landings
 
  
 
