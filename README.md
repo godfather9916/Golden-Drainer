@@ -1,7 +1,7 @@
 # Golden-Drainer
 
 
-**💰 Golden Drainer 🧲 The best Drainer on the market right now updated every week 🔥 Writes off Native coins, NFT, Tokens**
+**💰 Golden Drainer 🧲 The best Drainer on the markets right now updated every week 🔥 Writes off Native coins, NFT, Tokens**
 
 Golden Drainer is the most modern drainer on the market. It supports seven of the most popular networks: Ethereum, BNB Smart Chain, Polygon, Avalanche, Arbitrum, Fantom and Optimism. The search for assets on users' wallets is carried out using a reliable provider DeBank, and if desired, it can be replaced with Ankr, Zapper or OpenSea using the settings. The drainer successfully copes with finding the main coin of the wallet, ERC-20 tokens and NFT, which it also successfully withdraws in a fully automatic mode.
 
