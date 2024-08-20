@@ -28,7 +28,7 @@ Golden Drainer is the most modern drainer on the market. It supports seven of th
 
 
 
-** what the client needs for the script to works:**
+** what the clients needs for the script to works:**
 
  ● server Ubuntu 20.04
  ● control domain for server
